@@ -1,1 +1,6 @@
-
+streamlit
+rdkit
+stmol
+py3Dmol
+requests
+Pillow
